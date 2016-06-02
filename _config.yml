@@ -1,2 +1,3 @@
 name: David James, iOS/Swift Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
